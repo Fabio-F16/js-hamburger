@@ -2,7 +2,7 @@
 const hamburgerMenu = document.querySelector('.hamburger-menu');
 
 const menuOpen = document.querySelector('.header-right a i');
-const menuClose = document.querySelector('.hamburger-menu a i');
+const menuClose = document.querySelector('.close');
 
 
 menuOpen.addEventListener('click', function () {
