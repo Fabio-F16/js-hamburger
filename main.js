@@ -1,7 +1,7 @@
 // console.log('js ok');
 const hamburgerMenu = document.querySelector('.hamburger-menu');
 
-const menuOpen = document.querySelector('.header-right a i');
+const menuOpen = document.querySelector('.open');
 const menuClose = document.querySelector('.close');
 
 
