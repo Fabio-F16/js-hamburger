@@ -19,6 +19,7 @@ menuClose.addEventListener('click', function () {
 
     // hamburgerMenu.classList.remove('active') alternativa valida
 
+    
 })
 
 
